@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme!, estudante de programação e entusiasta na em desenvolvimento de software.
+## Olá eu sou o Guilherme!, Sou um estudante de programação e entusiasta em Desenvolvimento de Software
 
 <div align="center">
   <a href="https://github.com/Guilherme-Joviniano/">
