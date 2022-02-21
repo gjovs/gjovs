@@ -14,7 +14,10 @@
 
  </div> 
  
-  ## Total de visitas no meu perfil :detective: <br>
+  ## Total de Visitas 
+  
+  ##
+  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Guilherme-Joviniano/count.svg" />
  </p>
