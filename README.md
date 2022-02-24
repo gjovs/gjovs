@@ -15,7 +15,7 @@
 
  </div> 
  
-  ## Total de Visitas 
+  ## Total de Visitas  || Visit Counter 
   
   ##
   
