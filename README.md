@@ -13,7 +13,9 @@
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
- 
+    <img align="center" alt="Java-Icon" height="30" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fmongodb-icon-9.png&f=1&nofb=1">
+    <img align="center" alt="Java-Icon" height="50" width="60" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png">
+
  </div> 
  
   ## Total de Visitas  || Visit Counter 
