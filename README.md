@@ -15,6 +15,7 @@
   <img align="center" alt="Java-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Java-Icon" height="30" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fmongodb-icon-9.png&f=1&nofb=1">
     <img align="center" alt="Java-Icon" height="50" width="60" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png">
+<img align="center" alt="Java-Icon" height="50" width="60" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Fmedia-p.slid.es%2Fuploads%2F275559%2Fimages%2F6637674%2Ftailwind.JPG&f=1&nofb=1">
 
  </div> 
  
