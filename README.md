@@ -1,5 +1,9 @@
 ##  <div align='center'>Olá Eu sou o Guilherme! Sou um Estudante de Programação e Desenvolvimento de Software 👨‍💻 .</div> 
 ##  <div align='center'>Hi!, I'm Guilherme! I'm a Programmer and Software Development Student 👨‍💻.</div> 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Guilherme-Joviniano&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   <a href="https://github.com/Guilherme-Joviniano/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Joviniano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
