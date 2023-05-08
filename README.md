@@ -12,13 +12,9 @@
 
 </div>
 
- </div> 
- 
-  ## Total de Visitas  || Visit Counter 
   
-  ##
+ <div align="center">
   
+ ![Snake animation](https://github.com/Guilherme-Joviniano/Guilherme-Joviniano/blob/output/github-contribution-grid-snake.svg)
   
-  ##
-  
-  <a href = "mailto:00drpixelss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
