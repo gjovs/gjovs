@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Guilherme-Joviniano/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Joviniano&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Guilherme-Joviniano&theme=kacho_ga&hide_border=true&border_radius=18&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Joviniano&layout=compact&langs_count=7&hide=css,html&theme=kacho_ga"/>
 </div>
   
