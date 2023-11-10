@@ -5,9 +5,7 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=Guilherme-Joviniano&theme=kacho_ga&hide_border=true&border_radius=18&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Joviniano&layout=compact&langs_count=7&hide=css,html&theme=kacho_ga"/>
 </div>
-  
- <div align="center">
 
+<div align="center">
    [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,tailwind,java,kotlin,nodejs,express,mysql,mongodb,python,arduino,fastify)](https://skills.thijs.gg)
-
 </div>
